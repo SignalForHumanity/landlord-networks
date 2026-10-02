@@ -1,0 +1,13 @@
+[package]
+name = "landlord-networks"
+version = "0.1.0"
+edition = "2024"
+description = "Group county parcel records into landlord ownership networks for tenant organizers"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+keywords = ["tenants", "housing", "parcels", "landlord", "civic"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+csv = "1"

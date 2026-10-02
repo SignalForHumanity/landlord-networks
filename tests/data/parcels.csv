@@ -1,0 +1,15 @@
+PIN,OWNER1,OWNER2,MAIL_ADDR,MAIL_CITY,MAIL_ZIP,SITE_ADDR
+100-01,"2400 Milwaukee LLC",,"350 W. Hubbard Street, Suite 300",Chicago,60654-1234,2400 N Milwaukee Ave
+100-02,"Logan Sq Holdings, L.L.C.",,350 W Hubbard St Ste 300,CHICAGO,60654,2410 N Milwaukee Ave
+100-03,LOGAN SQ HOLDINGS LLC,,PO Box 4410,Chicago,60680,2600 W Fullerton Ave
+100-04,"Fullerton Partners LP C/O Lakeside Mgmt",,P.O. Box 4410,Chicago,60680,2610 W Fullerton Ave
+100-05,"SMITH, JOHN",,12 Elm St,Chicago,60614,12 Elm Street
+100-06,SMITH JOHN,,88 Oak Ave,Evanston,60201,4000 N Clark St
+100-07,"Garcia, Maria","Garcia, Luis",77 Pine Ct,Chicago,60618,500 W Belmont Ave
+100-08,"Garcia, Maria",,77 Pine Court,Chicago,60618,502 W Belmont Ave
+100-09,Northside Rentals Inc,,1 Corporate Tax Way,Dallas,75201,10 W Diversey Pkwy
+100-10,Southside Homes LLC,,1 Corporate Tax Way,Dallas,75201,20 W 63rd St
+100-11,Westside Apartments Corp,,1 Corporate Tax Way,Dallas,75201,30 S Pulaski Rd
+100-12,"Kedzie Ave LLC c/o Lakeside Management",,900 N Kedzie Ave,Chicago,60651,900 N Kedzie Ave
+100-01,"2400 Milwaukee LLC",,"350 W. Hubbard Street, Suite 300",Chicago,60654,2400 N Milwaukee Ave
+,Missing Pin LLC,,1 Nowhere,Chicago,60601,1 Nowhere
